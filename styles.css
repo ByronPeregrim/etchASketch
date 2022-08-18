@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+    place-content: center;
+    height: 100vh;
+   
+}
+
+#container {
+    display: grid;
+    height: 750px;
+    width: 750px;
+    place-content: center;
+    border: solid black;
+    border-width: 10px;
+}
+
+.gridCell {
+    border: solid black;
+}
